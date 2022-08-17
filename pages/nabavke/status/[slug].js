@@ -7,7 +7,7 @@ import ScrollToTop from '../../../components/ScroolToTop';
 import moment from 'moment';
 import NabavkeMenu from '../../../components/nabavke/NabavkeMenu';
 import styles from '../../../styles/nabavke.module.css';
-import ScrollToTop from '../../../components/ScroolToTop';
+
 
 const Status = ({ tagnabavke, nabavkes, query }) => {
     
